@@ -1,0 +1,48 @@
+
+body {
+	padding: 20px 10px;
+	font-family: Verdana;
+	max-width: 2000px;
+	margin: 0 auto;
+	font-size: small;
+}  
+h1 {
+	text-align: center;
+	color: darksalmon; 
+  font-size: 30px 
+}
+p {
+	margin: 10px 0;
+}
+.lesson {
+	background-color: darksalmon;
+	border-radius: 20px;
+	color: white;
+	padding: 10px;
+	margin: 10px auto;
+}
+h2 {
+	margin: 10px;
+  color: #F0FFF0;
+  font-style: italic;
+  font-size: 20px;
+}
+.concept{
+	background-color:darksalmon;
+	padding: 4px;
+	margin: 10px;
+	border-radius: 4px;
+}
+
+.concept-title {
+	font-size: 18px;
+	margin: 8px;
+	text-align: center;
+	color: cornsilk;
+ 
+}
+
+.concept-description {
+	font-weight: lighter;
+	margin: 6px;
+}
